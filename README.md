@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dar1Theory
-- 👀 I’m interested in Crypto, mainly BTC and Lightning
-- 🌱 I’m currently learning Lightning nodes and channels
-- 💞️ I’m looking to collaborate on Potentials for enabling small businesses in Ecuador to use lightning
+- 👀 I’m interested in Cryptos, mainly BTC and Lightning
+- I'm starting to work with AutoGPT and ChatGPT
+- 🌱 I’m current
 - 📫 How to reach me Whatsapp Dr. Darwin Perkins
 
 <!---
